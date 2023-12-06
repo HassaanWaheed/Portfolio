@@ -1188,3 +1188,34 @@ section .container {
 .credits a:hover {
   color: #fff;
 }
+
+/* Brands Section */
+.brands {
+  background-color: #000; /* Choose a background color for the brands section */
+  padding: 60px 0; /* Adjust the padding as needed */
+}
+
+.brands .section-title {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.brands .section-title h2 {
+  font-size: 36px;
+  color: #18d26e; /* Choose a text color for the section title */
+}
+
+.brands .section-title p {
+  font-size: 18px;
+  color: #fff; /* Choose a text color for the section subtitle */
+}
+
+.brands .row {
+  justify-content: center;
+}
+
+.brands img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
